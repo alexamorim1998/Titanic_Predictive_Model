@@ -14,7 +14,7 @@ This project consisted in determining which passengers survived regarding their 
 
 **Demonstration**
 
-For further details, please read the following reports that I have developed:
+For further details, please read the following notebook:
 
 [3] Demonstration | https://github.com/alexamorim1998/Titanic_Predictive_Model/blob/master/TitanicNotebook.ipynb
 
