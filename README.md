@@ -1,6 +1,6 @@
 **Purpose**
 
-This project consisted in determining which passengers survived regarding their characteristics (age, pclass, ...), threw a predictive model base on logistic regression 
+This project consisted in determining which passengers survived regarding their characteristics (age, pclass, ...), threw a predictive model based on logistic regression 
 
 **Technologies:**
 
